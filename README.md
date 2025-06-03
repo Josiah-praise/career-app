@@ -42,7 +42,7 @@ Built with modern tools like **Next.js**, **Clerk**, **Shadcn UI**, **Inngest**,
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/josiah-praise/career-app
+git clone https://github.com/josiah-praise/career-app.git
 cd career-app
 ```
 
